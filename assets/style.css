@@ -1,0 +1,20 @@
+.navbar{
+    background-color: rgb(105, 68, 0) !important;
+    border-radius: 15px;
+}
+
+.navbar-brand{
+    color: rgb(255, 255, 255) !important;
+    -webkit-text-stroke: 2px rgba(0, 0, 0, 0.5);
+    font-size: 25px;
+    font-weight: bold;
+}
+.form-container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 30px;
+    border: 3px solid #000000;
+    border-radius: 10px;
+    background-color: #774d00;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
